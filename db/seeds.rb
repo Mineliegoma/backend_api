@@ -12,11 +12,11 @@ Detail.destroy_all
 items= [
  {
   title: 'Watches',
-  pathName: 'wathes',
+  pathName: 'watches',
  },
   {
   title: 'Camera',
-  pathName: 'camera',
+  pathName: 'cameras',
  },
   {
   title: 'Phones',
@@ -134,7 +134,7 @@ details = [
        {
         name: "The Nikon D6 ",
         price: 2900,
-        imageUrl: "https://cdn.vox-cdn.com/thumbor/wBF-Oj61h1waaj2kFdpADLpb89s=/0x0:675x450/1520x1013/filters:focal(284x171:392x279)/cdn.vox-cdn.com/uploads/chorus_image/image/66466293/Unnamed_3.0.jpg ",
+        imageUrl: " https://2.img-dpreview.com/files/p/E~TS590x393~articles/5236489889/DSC_1298.ACR.jpeg",
          item_id: Item.second.id
 
        },
